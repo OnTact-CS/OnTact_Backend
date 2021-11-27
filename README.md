@@ -25,6 +25,8 @@
 |         ![](https://img.shields.io/badge/온도캘린더-pink)         |- 글을 한 번 불러오면, 글이 시작된 날짜부터 현재 불러온 날짜까지 확인할 수 있는 캘린더가 된다.<br>- 글이 올라온 날짜에 따른 글의 온도를 캘린더를 통해 일별로 확인할 수 있다.|
 |    ![](https://img.shields.io/badge/내정보-pink)     |- 프로필 사진을 설정할 수 있다.<br>- 이메일과 트위터 아아디, 또한 사용자의 평균 글 온도까지 보여준다.<br>- ’정보 수정하기‘ 버튼을 수정할 수 있다. |
 
+## 유튜브 영상
+https://www.youtube.com/watch?v=FLJUJj9FRHw
 
 ## Member
 - 박소은
